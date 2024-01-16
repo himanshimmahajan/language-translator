@@ -1,4 +1,4 @@
 # language-translator
 #requirements
-Tkinter library
-Googletrans Api
+1.Tkinter library
+2.Googletrans Api
